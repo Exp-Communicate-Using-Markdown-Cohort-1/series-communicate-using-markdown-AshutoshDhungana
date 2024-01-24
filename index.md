@@ -1,9 +1,13 @@
-# I am really conufused right now
-## i dont understand how this github works 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-'''
-printf("i dont know what im doin");
-'''
+# this is <h1> header
+## this is <h2> header
+
+![Image of something](https://realpython.com/cdn-cgi/image/width=960,format=auto/https://files.realpython.com/media/NumPy-Random-Number-Generator_Watermarked.f87659b8e3ee.jpg)
+
+``` <html>
+  <canvas id="myCanvas"></canvas><br>
+  <button onclick="lineFunction()">generate random line.</button>
+</html>
+```
 - [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [ ] second in the list
+- [ ] third in the list
