@@ -9,5 +9,5 @@
 </html>
 ```
 - [x] List syntax is required
-- [ ] second in the list
-- [ ] third in the list
+- [x] second in the list
+- [x] third in the list
