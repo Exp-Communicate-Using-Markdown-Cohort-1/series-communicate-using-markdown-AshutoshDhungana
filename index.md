@@ -4,7 +4,6 @@
 '''
 printf("i dont know what im doin");
 '''
-- [x] Completer this thingg
-- [ ] I ve failed 4 times lmao
-- [x] i guess i need to add three
-- [ ] to complete this task
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
