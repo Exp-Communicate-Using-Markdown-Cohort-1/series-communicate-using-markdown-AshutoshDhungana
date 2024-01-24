@@ -5,3 +5,5 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 '''
+- [ ] Completer this thingg
+- [ ] I ve failed 4 times lmao
