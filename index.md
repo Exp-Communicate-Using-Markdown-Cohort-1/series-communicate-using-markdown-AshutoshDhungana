@@ -1,7 +1,6 @@
 
 
-``` <html>
-  <canvas id="myCanvas"></canvas><br>
-  <button onclick="lineFunction()">generate random line.</button>
-</html>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
